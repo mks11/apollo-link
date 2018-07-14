@@ -4,7 +4,7 @@ sidebar_title: Introduction
 description: Apollo Link is a standard interface for modifying control flow of GraphQL requests and fetching GraphQL results.
 ---
 
-This is the official guide for getting started with Apollo Link in your application. Apollo Link is a simple yet powerful way to describe how you want to get the result of a GraphQL operation, and what you want to do with the results. You've probably come across "middleware" that might transform a request and its result: Apollo Link is an abstraction that's meant to solve similar problems in a much more flexible and elegant way.
+This is the official guide for getting started with Apollo Link in your application. Apollo Link is a simple yet powerful way to describe how you want to get the result of a GraphQL operation, and what you want to do with the results. You've probably come across "middleware" that might transform a request and its result: Apollo Link is an abstraction that's meant to solve similar problems.
 
 You can use Apollo Link with Apollo Client, `graphql-tools` schema stitching, GraphiQL, and even as a standalone client, allowing you to reuse the same authorization, error handling, and control flow across all of your GraphQL fetching.
 
